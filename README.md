@@ -1,6 +1,8 @@
 # HomeMirror
 Android application powering the mirror in my house
 
+2015年最火的项目 科幻电影里经常的出现的场景，如今已成现实，你家里的镜子也能显示日历天气了，科技进步之快超出我们的想象，无怪乎它能在 2015 年众多优秀开源项目中杀进前三，想知道怎么实现的？赶快去看看吧。
+
 [Google Play Link](https://play.google.com/store/apps/details?id=com.morristaedt.mirror)
 
 <img src="https://raw.githubusercontent.com/HannahMitt/HomeMirror/master/design/IMG_20151121_183522%20(1).jpg" width="400"/>
